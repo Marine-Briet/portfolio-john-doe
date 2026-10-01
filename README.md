@@ -13,9 +13,9 @@ The goal was to build and launch the website of a junior web developer, faithful
 The project was developed with a Git workflow based on **feature branches and pull requests**: one branch per page or feature (home page, services, portfolio, contact, modal, SEO, W3C review...), merged through 10 pull requests.
 
 <p align="center">
-  <img src="docs/screenshots/home.png" alt="Home page" width="280">
-  <img src="docs/screenshots/github-modal.png" alt="GitHub profile modal" width="280">
-  <img src="docs/screenshots/portfolio.png" alt="Portfolio page" width="280">
+  <img src="docs/screenshots/home.png" alt="Home page" width="200">
+  <img src="docs/screenshots/github-modal.png" alt="GitHub profile modal" width="200">
+  <img src="docs/screenshots/portfolio.png" alt="Portfolio page" width="200">
 </p>
 
 ---

@@ -14,7 +14,7 @@ The project was developed with a Git workflow based on **feature branches and pu
 
 <p align="center">
   <img src="docs/screenshots/home.png" alt="Home page" width="200">
-  <img src="docs/screenshots/github-modal.jpg" alt="GitHub profile modal" width="200">
+  <img src="docs/screenshots/github-modal.png" alt="GitHub profile modal" width="200">
   <img src="docs/screenshots/portfolio.png" alt="Portfolio page" width="200">
 </p>
 
